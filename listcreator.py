@@ -1,5 +1,5 @@
 # ! /usr/bin/env python
-
+#This script has a specified list of numbers, adds 1 to it, and prints the new list.
 listofnumbers = ['22', '26', '92', '88', '54', '46']
 #Begin with a specified list of numbers
 newlist =  list()
