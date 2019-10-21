@@ -1,5 +1,5 @@
 # ! usr/bin/env python
-
+#This script takes a dictionary of animals and their weights, converts to a list, and then prints if the  animal is 'small' or big' if mass is larger than 20.
 dictofanimals = {}
 #Create dictionary
 dictofanimals['python'] = 500
