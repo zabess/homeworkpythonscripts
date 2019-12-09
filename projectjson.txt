@@ -1,0 +1,95 @@
+[
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Column 3",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Control 3",
+          " Control 3"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Control 3"
+      },
+      {
+        "from": [
+          "CALIBRATION",
+          "CALIBRATION "
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "CALIBRATION"
+      },
+      {
+        "from": [
+          " Dapnia 1",
+          "Dapnia 1"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " Daphnia 1"
+      },
+      {
+        "from": [
+          "Community 3",
+          " Community 3"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Community 3"
+      },
+      {
+        "from": [
+          "Large myside 2"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Large mysid 2"
+      },
+      {
+        "from": [
+          "Eprischura 4"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Epischura 4"
+      }
+    ],
+    "description": "Mass edit cells in column Column 3"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Column 3",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          " Daphnia 1",
+          "Daphnia 1"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " Daphnia 1"
+      },
+      {
+        "from": [
+          "Larg mysid 1"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Large mysid 1"
+      }
+    ],
+    "description": "Mass edit cells in column Column 3"
+  }
+]
